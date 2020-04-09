@@ -1,0 +1,69 @@
+body {
+	background-color: #CCC !important;
+}
+
+
+
+#bg-img {
+	background-image: url(image.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	min-height: 500px;
+}
+
+.card-title {
+	display: flex;
+}
+
+#About {
+	margin-top: -200px;
+}
+#About .fab {
+	color: #fff;
+}
+#About span {
+	padding: 10px 20px;
+}
+#About hr {
+	border-width: 2px;
+	margin-top: 6px;
+}
+.bg-color {
+	background-color: #2de0e4 !important;
+}
+
+#Skills span {
+	padding: 10px 20px;
+}
+#Skills hr {
+	border-width: 2px;
+	margin-top: 6px;
+}
+
+#Education span {
+	padding: 10px 20px;
+}
+#Education hr {
+	border-width: 2px;
+	margin-top: 6px;
+}
+
+#Education .text-java {
+    color: #4267b2;
+}
+
+#Education .text-telecom {
+    color: #024388;
+}
+
+#Education .card {
+    border-top: 03px solid #28A745;
+}
+
+#Contact span {
+	padding: 10px 20px;
+}
+#Contact hr {
+	border-width: 2px;
+	margin-top: 6px;
+}
